@@ -14,3 +14,5 @@ rabbitmq:management
 hyperf/hyperf:8.1-alpine-v3.18-swoole-v5.0
 node:16.15.1-alpine
 node:18-alpine
+node:20.19.5-alpine3.22
+node:22.19-alpine3.22
